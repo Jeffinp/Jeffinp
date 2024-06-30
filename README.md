@@ -17,6 +17,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis
 
 - 🌐 Desenvolvimento full stack
 - 📚 Estudos em Kotlin, PHP, C, C#, TypeScript, Java, Git, Node.js, React.js, Python
+- 🎮 Criação de um game 2D usando C#
 
 ## 💼 Projetos Destacados
 
