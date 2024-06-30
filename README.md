@@ -12,6 +12,8 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis
 - ♿ Acessibilidade web
 - 📱 Design responsivo
 - 🚀 Otimização de performance
+- 🔍 Melhoria contínua
+- 🌟 Inovação e criatividade
 
 ## 🌱 Futuros interesses e aprendizados
 
@@ -43,6 +45,14 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis
 ## 📚 Atualmente Aprendendo
 
 - JavaScript avançado
+
+## 💡 Proatividade e Soft Skills
+
+- 🤝 Trabalho em equipe
+- 💬 Comunicação eficaz
+- 🧩 Resolução de problemas
+- 📈 Gestão de tempo
+- 🌐 Aprendizado contínuo
 
 ## 📫 Como me encontrar
 
