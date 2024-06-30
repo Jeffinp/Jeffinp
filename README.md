@@ -1,8 +1,15 @@
-## Olá mundo! 👋
+## Olá, mundo! 👋 Bem-vindo ao meu espaço de código!
 
 Me chamo Jeferson Reis Almeida.
 
-Sou um desenvolvedor front-end sempre em busca de aprimorar minhas práticas e conhecimentos. Estou constantemente estudando e me atualizando nas mais recentes tecnologias e ferramentas.
+Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis e intuitivas. Minha jornada no mundo do desenvolvimento começou no início de 2024 e desde então tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
+Meus principais interesses incluem Programação web, web designer, designer gráfico, acessibilidade web, design reswponsivo e otimização de perfomace!
+
+## 🚀 Projetos Destacados
+https://thebatmanpartll.netlify.app/ - Um site que estou produzinho no intuito de aprimorar minhas habilidades em dev web, em breve estarei disponibilizando meu próprio site, incluindo outros projetos que estou criando.
+
+## 📊 Estatísticas do GitHub
+
 
 🛠️ Tecnologias e Ferramentas:
 
