@@ -16,7 +16,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis
 ## 🌱 Futuros interesses e aprendizados
 
 - 🌐 Desenvolvimento full stack
-- 📚 Estudos em Kotlin, PHP, C, C#, TypeScript e Java
+- 📚 Estudos em Kotlin, PHP, C, C#, TypeScript, Java, Git, Node.js, React.js, Python
 
 ## 💼 Projetos Destacados
 
@@ -42,7 +42,6 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis
 ## 📚 Atualmente Aprendendo
 
 - JavaScript avançado
-
 
 ## 📫 Como me encontrar
 
