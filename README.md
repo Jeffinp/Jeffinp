@@ -1,27 +1,53 @@
-## Olá, mundo! 👋 Bem-vindo ao meu espaço de código!
+# Olá, mundo! 👋 Bem-vindo ao meu espaço de código!
 
-Me chamo Jeferson Reis Almeida.
+Me chamo **Jeferson Reis Almeida**.
 
 Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis e intuitivas. Minha jornada no mundo do desenvolvimento começou no início de 2024 e desde então tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
-Meus principais interesses incluem Programação web, web designer, designer gráfico, acessibilidade web, design reswponsivo e otimização de perfomace!
 
-## 🚀 Projetos Destacados
-https://thebatmanpartll.netlify.app/ - Um site que estou produzinho no intuito de aprimorar minhas habilidades em dev web, em breve estarei disponibilizando meu próprio site, incluindo outros projetos que estou criando.
+## 🚀 Meus principais interesses
+
+- 💻 Programação web
+- 🎨 Web design
+- 🖌️ Design gráfico
+- ♿ Acessibilidade web
+- 📱 Design responsivo
+- 🚀 Otimização de performance
+
+## 💼 Projetos Destacados
+
+1. [The Batman Part II](https://thebatmanpartll.netlify.app/) - Um site que estou produzindo para aprimorar minhas habilidades em desenvolvimento web.
+2. *Em breve:* Meu portfólio pessoal, incluindo outros projetos em desenvolvimento.
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📊 Estatísticas do GitHub
 
+<details>
+  <summary>Ver estatísticas</summary>
+  
+  ![Estatísticas do GitHub de Jeferson](https://github-readme-stats.vercel.app/api?username=Jeffinp&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&theme=radical)
+</details>
 
-🛠️ Tecnologias e Ferramentas:
+## 📚 Atualmente Aprendendo
 
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7dde8da81212fbf7b9018760a7d44c9c8f7aad8f995bbfd51968165b87f913c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"><img width="40px" src="https://camo.githubusercontent.com/7dde8da81212fbf7b9018760a7d44c9c8f7aad8f995bbfd51968165b87f913c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" title="HTML5" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd402acee67bfaf3560634ed1b236cb3d330dcee7f0b5aec2ad98c435e852c7b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667"><img width="40px" src="https://camo.githubusercontent.com/cd402acee67bfaf3560634ed1b236cb3d330dcee7f0b5aec2ad98c435e852c7b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" title="CSS3" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"><img width="40px" src="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" title="JAVASCRIPT" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img width="40px" src="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" title="GITHUB" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></code></p>
+- JavaScript avançado
+- Fundamentos de React.js
 
+## 📫 Como me encontrar
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-reis-877a942b7)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonreisalmeida8356@gmail.com)
 
+---
 
-## 📬 Contatos:
-<div dir="auto">
-<a href="https://www.linkedin.com/in/jeferson-reis-877a942b7" lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bxs5ua0ivStGn%2FcTH92RJNg%3D%3D)" rel="nofollow"><img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>   
-</div>
+> "A única maneira de fazer um grande trabalho é amar o que você faz." - Steve Jobs
+
+## 💬 Vamos conectar!
+
+Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Vamos criar algo incrível juntos! 🚀
