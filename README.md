@@ -36,6 +36,7 @@ Bem-vindo ao meu espaço de código! Me chamo **Jeferson Reis Almeida**. Sou um 
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub de Jeferson](https://github-readme-stats.vercel.app/api?username=Jeffinp&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&theme=radical)
 
 
