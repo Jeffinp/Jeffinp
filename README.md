@@ -54,6 +54,16 @@ Bem-vindo ao meu espaço de código! Me chamo **Jeferson Reis Almeida**. Sou um 
 
 ## 📚 Atualmente Aprendendo
 - JavaScript avançado
+- Node.js
+- React.js
+- Angular 
+- PHP
+- Vir
+- Bootstrap 
+- jQuery
+-MySQL
+- MongoDB
+- gulp
 
 ## 💡 Proatividade e Soft Skills
 - 🤝 Trabalho em equipe
