@@ -58,7 +58,7 @@ Bem-vindo ao meu espaço de código! Me chamo **Jeferson Reis Almeida**. Sou um 
 - React.js
 - Angular 
 - PHP
-- Vir
+- Vue
 - Bootstrap 
 - jQuery
 - MySQL
