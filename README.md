@@ -52,18 +52,20 @@ Bem-vindo ao meu espaço de código! Me chamo **Jeferson Reis Almeida**. Sou um 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&theme=radical)
 
 
+Claro, aqui está o texto conforme solicitado:
+
 ## 📚 Atualmente Aprendendo
 - JavaScript avançado
 - Node.js
 - React.js
-- Angular 
+- Angular
 - PHP
 - Vue
-- Bootstrap 
+- Bootstrap
 - jQuery
 - MySQL
 - MongoDB
-- gulp
+- Gulp
 
 ## 💡 Proatividade e Soft Skills
 - 🤝 Trabalho em equipe
