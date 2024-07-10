@@ -61,7 +61,7 @@ Bem-vindo ao meu espaço de código! Me chamo **Jeferson Reis Almeida**. Sou um 
 - Vir
 - Bootstrap 
 - jQuery
--MySQL
+- MySQL
 - MongoDB
 - gulp
 
