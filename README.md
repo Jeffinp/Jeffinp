@@ -63,7 +63,7 @@ Bem-vindo ao meu espaço de código! Me chamo **Jeferson Reis Almeida**. Sou um 
 - MySQL
 - MongoDB
 - Gulp
-- DOm
+- Dom
 
 ## 💡 Proatividade e Soft Skills
 - 🤝 Trabalho em equipe
