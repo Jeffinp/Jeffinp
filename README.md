@@ -23,8 +23,10 @@ Bem-vindo ao meu espaço de código! Me chamo **Jeferson Reis Almeida**. Sou um 
 - 🎮 Criação de um game 2D usando C#
 
 ## 💼 Projetos Destacados
-1. [The Batman Part II](https://thebatmanpartll.netlify.app/) - Um site que estou produzindo para aprimorar minhas habilidades em desenvolvimento web.
-2. *Em breve:* Meu portfólio pessoal, incluindo outros projetos em desenvolvimento.
+1. **The Batman Part II**: [Site](https://thebatmanpartll.netlify.app/) - Um site que estou produzindo para aprimorar minhas habilidades em desenvolvimento web.
+2. **Página de cliente**: [Site](https://www.desenhosricardodias.com.br/) - Página criada para cliente.
+3. **Justly Project**: [Site](https://justly.netlify.app/) - Um projeto para testar minhas habilidades com design e CSS.
+4. **Portfólio Pessoal**: [Site](https://jeffinp.github.io/jefersonreis.github.io/) - Meu portfólio pessoal, incluindo outros projetos em desenvolvimento.
 
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
