@@ -27,7 +27,7 @@ Auxiliando empresas e indivíduos a concretizarem suas ideias através do desenv
 | The Batman Part II            | Site em desenvolvimento para aprimorar habilidades em desenvolvimento web, com foco em responsividade e animações.                                                                                                                                | HTML, CSS, JavaScript, Netlify | [https://thebatmanpartll.netlify.app/](https://thebatmanpartll.netlify.app/) |
 | Página de cliente             | Página institucional criada para o cliente Desenhos Ricardo Dias, com o objetivo de divulgar seus serviços e portfólio artístico.                                                                                          | HTML, CSS, JavaScript, Wordpress                       | [https://www.desenhosricardodias.com.br/](https://www.desenhosricardodias.com.br/) |
 | Justly Project                | Um projeto para testar habilidades com design e CSS, com foco em layouts complexos e efeitos visuais.                                                                                                                  | HTML, CSS                                  | [https://justly.netlify.app/](https://justly.netlify.app/)             |
-| Portfólio Pessoal            | Meu portfólio pessoal, apresentando meus projetos, habilidades e trajetória profissional.                                                                                                                                             | HTML, CSS, JavaScript, React                       | [https://jefersonreis-github-io.vercel.app/index.html](https://jefersonreis-github-io.vercel.app/index.html)|
+| Portfólio Pessoal            | Meu portfólio pessoal, apresentando meus projetos, habilidades e trajetória profissional.                                                                                                                                             | HTML, CSS, JavaScript, React                       | [https://jefersonreis-github-io.vercel.app](https://jefersonreis-github-io.vercel.app) |
 
 ## Habilidades Pessoais
 
@@ -47,7 +47,7 @@ Além da programação, sou apaixonado por design gráfico e design comercial. A
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonreisalmeida8356@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/KW2XXA46XAXNH1)
 
-[Meu site:https://jefersonreis-github-io.vercel.app/index.html ] (https://jefersonreis-github-io.vercel.app/index.html)
+[Meu site: https://jefersonreis-github-io.vercel.app](https://jefersonreis-github-io.vercel.app)
 
 ---
 
