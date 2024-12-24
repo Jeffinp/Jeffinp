@@ -1,74 +1,87 @@
-# Jeferson Reis Almeida - Desenvolvedor Full-Stack
+# Jeferson Reis - Desenvolvedor Full-Stack
 
-Olá! Bem-vindo ao meu portfólio. Sou Jeferson Reis Almeida, um desenvolvedor Full-Stack apaixonado por tecnologia e design, com 18 anos e natural de Camaçari, Bahia. Trabalho como freelancer, criando soluções web inovadoras e buscando constantemente aprimorar minhas habilidades.
+Bem-vindo ao meu portfólio! Aqui você pode encontrar informações sobre mim, minhas habilidades e meus projetos.
 
-## ️ Habilidades
+---
 
-Utilizo as seguintes tecnologias e ferramentas no meu dia a dia:
+## 🌐 **Sobre Mim**
 
-### Desenvolvimento Front-End
+👋 Olá! Meu nome é **Jeferson Reis Almeida**, tenho 18 anos e sou de **Camaçari, Bahia**.  
+Desde os meus 3 anos, sou apaixonado por tecnologia, e essa paixão me levou a me especializar em **desenvolvimento Full-Stack** e **design gráfico**. 
 
-*   HTML5 (100%)
-*   CSS3 (100%)
-*   JavaScript (100%)
-*   React (95%)
+💻 Atualmente, trabalho como freelancer e estou sempre buscando novos desafios e aprendizados.
 
-### Desenvolvimento Back-End
+---
 
-*   PHP (85%)
-*   Node.js (90%)
-*   MySQL (90%)
-*   Python (95%)
+## 🛠️ **Habilidades**
 
-### Ferramentas & Frameworks
+### **Desenvolvimento Front-End**
+- HTML5 (100%)
+- CSS3 (100%)
+- JavaScript (100%)
+- React (95%)
 
-*   Vue.js (85%)
-*   Angular (90%)
-*   Bootstrap (80%)
+### **Desenvolvimento Back-End**
+- PHP (85%)
+- Node.js (90%)
+- MySQL (90%)
+- Python (95%)
 
-### Outras Competências
+### **Ferramentas & Frameworks**
+- Vue.js (85%)
+- Angular (90%)
+- Bootstrap (80%)
 
-*   UX/UI Design
-*   Arte Digital e Design Gráfico
-*   Criação de Logotipos e Banners
+### **Outras Competências**
+- UX/UI Design
+- Arte Digital e Design Gráfico
+- Criação de Logotipos e Banners
 
-##  Portfólio de Arte Digital
+---
 
-Explore meus trabalhos em design gráfico e arte digital, onde combino criatividade e técnica para criar peças únicas.
+## 🎨 **Portfólio de Arte Digital**
 
+Explore minha coleção de projetos criativos que combinam **design gráfico** e **arte digital**.  
 [Veja Meu Portfólio de Arte Digital](https://jefersonreis-github-io.vercel.app/Artistadigital.html)
 
-##  Projetos
+---
 
-**Importante:** Para esta seção ser realmente eficaz, você precisa fornecer:
+## 📂 **Projetos**
 
-1.  **Nomes reais dos projetos:** "Projeto 1" e "Projeto 2" precisam ser substituídos pelos nomes dos seus projetos.
-2.  **Links para os projetos online (se disponíveis) ou para os repositórios do GitHub.**
-3.  **Descrições concisas e informativas de cada projeto:** Inclua o objetivo do projeto e as principais tecnologias utilizadas.
+### 🖥️ [Projeto 1 - Nome do Projeto](https://github.com/Jeffinp/Projeto1)
+**Descrição**: Um breve resumo do projeto, explicando funcionalidades e tecnologias usadas.
 
-Enquanto isso, aqui está um exemplo de como a seção deve ficar quando você fornecer as informações:
+### 🖥️ [Projeto 2 - Nome do Projeto](https://github.com/Jeffinp/Projeto2)
+**Descrição**: Um breve resumo do projeto, explicando funcionalidades e tecnologias usadas.
 
-```markdown
-### ️ [Nome do Projeto 1](Link para o Projeto 1 ou Repositório)
+> Para ver mais projetos, visite meu [GitHub](https://github.com/Jeffinp).
 
-**Descrição:** Breve descrição do projeto, destacando suas principais funcionalidades e as tecnologias utilizadas (ex: "Um aplicativo web para gerenciamento de tarefas, desenvolvido com React e Node.js.").
+---
 
-### ️ [Nome do Projeto 2](Link para o Projeto 2 ou Repositório)
+## 📄 **Certificados**
 
-**Descrição:** Breve descrição do projeto, destacando suas principais funcionalidades e as tecnologias utilizadas (ex: "Um site institucional para uma empresa de design, construído com HTML, CSS e JavaScript.").
+- **Curso de Desenvolvimento Web**  
+  *Certificação em HTML, CSS e JavaScript*
 
-### ️ [Presente de Natal](Link para o Projeto Presente de Natal ou Repositório)
+- **Bootcamp Full-Stack**  
+  *Especialização em React, Node.js e Banco de Dados*
 
-**Descrição:** Breve descrição do projeto, destacando suas principais funcionalidades e as tecnologias utilizadas.
+---
 
-### ️ [Seca e Define](Link para o Projeto Seca e Define ou Repositório)
+## 📬 **Contato**
 
-**Descrição:** Breve descrição do projeto, destacando suas principais funcionalidades e as tecnologias utilizadas.
+- **Email**: [jeferson@example.com](mailto:jeferson@example.com)  
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/jeferson-reis-877a942b7/)  
+- **GitHub**: [Meu GitHub](https://github.com/Jeffinp)  
+- **Instagram**: [Meu Instagram](https://www.instagram.com/jeffinx___/)  
 
-### ️ [Desenhos Ricardo Dias](https://www.desenhosricardodias.com.br/)
+---
 
-**Descrição:** Página institucional criada para o cliente Desenhos Ricardo Dias, com o objetivo de divulgar seus serviços e portfólio artístico. Utilizado HTML, CSS, JavaScript e Wordpress.
+## 🌟 **Acesse Meu Portfólio Online**
 
-### ️ [The Batman Part II](https://thebatmanpartll.netlify.app/)
+Você pode explorar meu trabalho completo no meu portfólio online:  
+[**Portfólio Jeferson Reis**](https://jefersonreis-github-io.vercel.app/)
 
-**Descrição:** Site em desenvolvimento para aprimorar habilidades em desenvolvimento web, com foco em responsividade e animações. Utilizado HTML, CSS e JavaScript.
+---
+
+> **"A tecnologia é a ponte que conecta sonhos à realidade."**
