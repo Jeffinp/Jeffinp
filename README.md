@@ -46,28 +46,6 @@ Explore minha coleção de projetos criativos que combinam **design gráfico** e
 
 ---
 
-## 📂 **Projetos**
-
-### 🖥️ [Projeto 1 - Nome do Projeto](https://github.com/Jeffinp/Projeto1)
-**Descrição**: Um breve resumo do projeto, explicando funcionalidades e tecnologias usadas.
-
-### 🖥️ [Projeto 2 - Nome do Projeto](https://github.com/Jeffinp/Projeto2)
-**Descrição**: Um breve resumo do projeto, explicando funcionalidades e tecnologias usadas.
-
-> Para ver mais projetos, visite meu [GitHub](https://github.com/Jeffinp).
-
----
-
-## 📄 **Certificados**
-
-- **Curso de Desenvolvimento Web**  
-  *Certificação em HTML, CSS e JavaScript*
-
-- **Bootcamp Full-Stack**  
-  *Especialização em React, Node.js e Banco de Dados*
-
----
-
 ## 📬 **Contato**
 
 - **Email**: [jeferson@example.com](mailto:jeferson@example.com)  
