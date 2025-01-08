@@ -48,7 +48,7 @@ Explore minha coleção de projetos criativos que combinam **design gráfico** e
 
 ## 📬 **Contato**
 
-- **Email**: [jeferson@example.com](mailto:jeferson@example.com)  
+- **Email**: [jefersonreisalmeida8356.com](mailto:jefersonreisalmeida8356.com)  
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/jeferson-reis-877a942b7/)  
 - **GitHub**: [Meu GitHub](https://github.com/Jeffinp)  
 - **Instagram**: [Meu Instagram](https://www.instagram.com/jeffinx___/)  
