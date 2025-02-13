@@ -42,7 +42,7 @@ Desde os meus 3 anos, sou apaixonado por tecnologia, e essa paixão me levou a m
 ## 🎨 **Portfólio de Arte Digital**
 
 Explore minha coleção de projetos criativos que combinam **design gráfico** e **arte digital**.  
-[Veja Meu Portfólio de Arte Digital](https://jefersonreis-github-io.vercel.app/Artistadigital.html)
+[Veja Meu Portfólio de Arte Digital](https://jefersonreis-github-io.vercel.app/)
 
 ---
 
