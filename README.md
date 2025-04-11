@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio! Aqui você pode encontrar informações sobre mim, 
 
 ## 🌐 **Sobre Mim**
 
-👋 Olá! Meu nome é **Jeferson Reis Almeida**, tenho 18 anos e sou de **Camaçari, Bahia**.  
+👋 Olá! Meu nome é **Jeferson Reis Almeida**,sou de **Camaçari, Bahia**.  
 Desde os meus 3 anos, sou apaixonado por tecnologia, e essa paixão me levou a me especializar em **desenvolvimento Full-Stack** e **design gráfico**. 
 
 💻 Atualmente, trabalho como freelancer e estou sempre buscando novos desafios e aprendizados.
