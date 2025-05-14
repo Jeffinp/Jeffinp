@@ -28,9 +28,7 @@ Desde os meus 3 anos, sou apaixonado por tecnologia, e essa paixão me levou a m
 - Python (95%)
 
 ### **Ferramentas & Frameworks**
-- Vue.js (85%)
 - Angular (90%)
-- Bootstrap (80%)
 
 ### **Outras Competências**
 - UX/UI Design
