@@ -19,7 +19,6 @@ Desde os meus 3 anos, sou apaixonado por tecnologia, e essa paixão me levou a m
 - HTML5 (100%)
 - CSS3 (100%)
 - JavaScript (100%)
-- React (95%)
 
 ### **Desenvolvimento Back-End**
 - PHP (85%)
@@ -29,6 +28,7 @@ Desde os meus 3 anos, sou apaixonado por tecnologia, e essa paixão me levou a m
 
 ### **Ferramentas & Frameworks**
 - Angular (90%)
+- React (95%)
 
 ### **Outras Competências**
 - UX/UI Design
