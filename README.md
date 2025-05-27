@@ -22,9 +22,10 @@ Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, tra
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack (Clique para expandir)
 
-### 🧠 Linguagens & Front-End
+<details>
+<summary><strong>🧠 Linguagens & Front-End</strong></summary>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -44,7 +45,10 @@ Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, tra
   <li>Framer Motion</li>
 </ul>
 
-### 🔧 Backend
+</details>
+
+<details>
+<summary><strong>🔧 Desenvolvimento Back-End</strong></summary>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -61,16 +65,19 @@ Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, tra
   <li>Argon2</li>
 </ul>
 
-### 🧰 Banco de Dados
+</details>
 
+<details>
+<summary><strong>🧰 Banco de Dados</strong></summary>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </p>
+</details>
 
-### ⚙️ Ferramentas e Outras Habilidades
-
+<details>
+<summary><strong>⚙️ Ferramentas e Outras Habilidades</strong></summary>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
@@ -86,6 +93,7 @@ Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, tra
   <li>Pacote Office</li>
   <li>Chatbots</li>
 </ul>
+</details>
 
 ---
 
