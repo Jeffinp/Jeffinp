@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, transformo ideias em produtos digitais robustos como **desenvolvedor full-stack**, unindo código limpo, performance e bom design.
+Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, transformo ideias em produtos digitais robustos como **desenvolvedor full-stack** freelancer, unindo código limpo, performance e bom design.
 
 ---
 
@@ -83,13 +83,13 @@ Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, tra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 </p>
 <ul>
   <li>Vercel</li>
   <li>Notion</li>
   <li>UI/UX Design</li>
-  <li>Blender</li>
-  <li>Canva</li>
   <li>Pacote Office</li>
   <li>Chatbots</li>
 </ul>
@@ -99,11 +99,11 @@ Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, tra
 
 ## ✨ Projetos em Destaque
 
-| Projeto                                   | Descrição                                                                             | Tecnologias                     |
-| ----------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------- |
-| **Sistema para Escritórios de Advocacia** | Plataforma SaaS multi-tenant para gestão de processos jurídicos, agenda e relatórios. | React, Flask, SQLAlchemy, Redis |
-| **Scanner de Documentos com OCR**         | App que digitaliza, corrige perspectiva e extrai texto de documentos.                 | Python, OpenCV, Tesseract       |
-| **Portfólio de Arte Digital**             | Coleção de ilustrações e identidades visuais.                                         | Figma, Illustrator              |
+| Projeto                                   | Descrição                                                                             | Tecnologias                                |
+| ----------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Sistema para Escritórios de Advocacia** | Plataforma SaaS multi-tenant para gestão de processos jurídicos, agenda e relatórios. | React, Flask, SQLAlchemy, Redis            |
+| **Scanner de Documentos com OCR**         | App que digitaliza, corrige perspectiva e extrai texto de documentos.                 | Python, OpenCV, Tesseract                  |
+| **Portfólio de Arte Digital**             | Coleção de ilustrações e identidades visuais.                                         | Figma, Photoshop, Illustrator              |
 
 🔗 [Acesse todos os projetos →](https://jefersonreis-github-io.vercel.app/#portfolio)
 
