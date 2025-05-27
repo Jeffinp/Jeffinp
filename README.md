@@ -1,63 +1,89 @@
-# Jeferson Reis - Desenvolvedor Full-Stack
+<!-- Banner -->
 
-Bem-vindo ao meu portfólio! Aqui você pode encontrar informações sobre mim, minhas habilidades e meus projetos.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="100%" alt="Digital workspace banner" />
+</p>
 
----
+<h1 align="center">Jeferson Reis</h1>
+<h3 align="center">Full-Stack Developer & Digital Designer</h3>
 
-## 🌐 **Sobre Mim**
-
-👋 Olá! Meu nome é **Jeferson Reis Almeida**,sou de **Camaçari, Bahia**.  
-Desde os meus 3 anos, sou apaixonado por tecnologia, e essa paixão me levou a me especializar em **desenvolvimento Full-Stack** e **design gráfico**. 
-
-💻 Atualmente, trabalho como freelancer e estou sempre buscando novos desafios e aprendizados.
-
----
-
-## 🛠️ **Habilidades**
-
-### **Desenvolvimento Front-End**
-- HTML5 (100%)
-- CSS3 (100%)
-- JavaScript (100%)
-
-### **Desenvolvimento Back-End**
-- PHP (85%)
-- Node.js (90%)
-- MySQL (90%)
-- Python (95%)
-
-### **Ferramentas & Frameworks**
-- Angular (90%)
-- React (95%)
-
-### **Outras Competências**
-- UX/UI Design
-- Arte Digital e Design Gráfico
-- Criação de Logotipos e Banners
+<p align="center">
+  <a href="mailto:jefersonreisalmeida8356@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeferson-reis-877a942b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Jeffinp"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jeffinx___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🎨 **Portfólio de Arte Digital**
+## 🚀 Sobre Mim
 
-Explore minha coleção de projetos criativos que combinam **design gráfico** e **arte digital**.  
-[Veja Meu Portfólio de Arte Digital](https://jefersonreis-github-io.vercel.app/#portfolio)
-
----
-
-## 📬 **Contato**
-
-- **Email**: [jefersonreisalmeida8356@gmail.com](mailto:jefersonreisalmeida8356@gmail.com)  
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/jeferson-reis-877a942b7/)  
-- **GitHub**: [Meu GitHub](https://github.com/Jeffinp)  
-- **Instagram**: [Meu Instagram](https://www.instagram.com/jeffinx___/)  
+Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, transformo ideias em produtos digitais robustos como **desenvolvedor full-stack** freelancer, unindo código limpo, performance e bom design.
 
 ---
 
-## 🌟 **Acesse Meu Portfólio Online**
+## 🛠 Tech Stack
 
-Você pode explorar meu trabalho completo no meu portfólio online:  
-[**Portfólio Jeferson Reis**](https://jefersonreis-github-io.vercel.app/)
+### Front-End
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+</p>
+
+### Back-End
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</p>
+
+### Ferramentas & DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+</p>
+
+### Design
+
+* UX/UI Design
+* Arte Digital & Design Gráfico
+* Criação de Logotipos e Banners
 
 ---
 
-> **"A tecnologia é a ponte que conecta sonhos à realidade."**
+## ✨ Projetos em Destaque
+
+| Projeto                                   | Descrição                                                                             | Tecnologias                     |
+| ----------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------- |
+| **Sistema para Escritórios de Advocacia** | Plataforma SaaS multi-tenant para gestão de processos jurídicos, agenda e relatórios. | React, Flask, SQLAlchemy, Redis |
+| **Scanner de Documentos com OCR**         | App que digitaliza, corrige perspectiva e extrai texto de documentos.                 | Python, OpenCV, Tesseract       |
+| **Portfólio de Arte Digital**             | Coleção de ilustrações e identidades visuais.                                         | Figma, Illustrator              |
+
+🔗 [Acesse todos os projetos →](https://jefersonreis-github-io.vercel.app/#portfolio)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffinp&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffinp" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Vamos Conectar
+
+Se você tiver uma ideia incrível ou apenas quiser bater um papo sobre código e design, estou sempre aberto a novas conexões!
+
+---
+
+> *"A tecnologia é a ponte que conecta sonhos à realidade."*
