@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, transformo ideias em produtos digitais robustos como **desenvolvedor full-stack** freelancer, unindo código limpo, performance e bom design.
+Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, transformo ideias em produtos digitais robustos como **desenvolvedor full-stack**, unindo código limpo, performance e bom design.
 
 ---
 
