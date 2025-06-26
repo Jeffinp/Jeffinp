@@ -1,0 +1,17 @@
+name: Atualizar README com Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Executa a cada 12 horas
+  workflow_dispatch:         # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar GitHub Stats
+        run: |
+          echo "Atualização automática de README não requer modificação aqui diretamente."
