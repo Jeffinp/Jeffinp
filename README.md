@@ -102,12 +102,16 @@ Estou em busca de desafios e oportunidades que me permitam colaborar, aprender e
 ## 📈 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeffinp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api?username=Jeffinp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" />
+  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=8" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=Jeffinp&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.vercel.app/?user=Jeffinp&theme=dracula&hide_border=true&border_radius=8"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
