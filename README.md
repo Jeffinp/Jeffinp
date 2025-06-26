@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jeffinp/Jeffinp/blob/main/Imagens/Design_jeff2.png" width="100%" alt="Banner Jeferson Reis - Full-Stack Developer & Digital Designer"/>
+  <img src="https://github.com/Jeffinp/Jeffinp/blob/main/Imagens/Design_jeff1.png" width="100%" alt="Banner Jeferson Reis - Full-Stack Developer & Digital Designer"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Jeferson Reis</h1>
