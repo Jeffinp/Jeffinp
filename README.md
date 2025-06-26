@@ -106,7 +106,7 @@ Estou em busca de desafios e oportunidades que me permitam colaborar, aprender e
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=8" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Jeffinp&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=Jeffinp&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
 
 ---
