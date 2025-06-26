@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jeffinp/Jeffinp/blob/main/Imagens/Design_jeff1.png" width="100%" alt="Banner Jeferson Reis - Full-Stack Developer & Digital Designer"/>
+  <img src="https://raw.githubusercontent.com/Jeffinp/Jeffinp/main/Imagens/Design_jeff1.png" width="100%" alt="Banner Jeferson Reis - Full-Stack Developer & Digital Designer"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Jeferson Reis</h1>
@@ -136,4 +136,4 @@ Estou em busca de desafios e oportunidades que me permitam colaborar, aprender e
 
 Adoraria trocar ideias, colaborar em projetos ou discutir oportunidades. Sinta-se à vontade para entrar em contato!
 
-> *"A melhor forma de prever o futuro é criá-lo."*
+> *"Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso." - Albert Einstein*
