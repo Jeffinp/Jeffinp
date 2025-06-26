@@ -1,10 +1,9 @@
 <!-- Banner -->
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="100%" alt="Digital workspace banner" />
+  <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="Screen code" />
 </p>
 
-<h1 align="center">Jeferson Reis</h1>
+<h1 align="center">👋 Olá, eu sou <strong>Jeferson Reis</strong></h1>
 <h3 align="center">Full-Stack Developer & Digital Designer</h3>
 
 <p align="center">
@@ -16,9 +15,13 @@
 
 ---
 
-## 🚀 Sobre Mim
+### 🚀 Sobre Mim
 
-Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, transformo ideias em produtos digitais robustos como **desenvolvedor full-stack** freelancer, unindo código limpo, performance e bom design.
+Me chamo **Jeferson Reis**, mas pode me chamar de **Jeferson**. Desde criança, sempre fui muito curioso e apaixonado por aprender — essa vontade me levou por diversas áreas como **informática**, **design gráfico**, **artes digitais** e **manutenção de computadores**.
+
+Foi nessa trajetória que descobri a **programação**, e tudo mudou. Decidi mergulhar de cabeça na área, estudando com foco, criando projetos práticos e dominando diferentes tecnologias. Hoje, atuo como **desenvolvedor full-stack freelancer**, unindo código limpo, performance e bom design.
+
+Acredito no poder da melhoria contínua. Estou sempre pronto para **ouvir, aprender, colaborar e evoluir**. Programar é minha paixão e meu propósito — e estou em busca de desafios e oportunidades que me ajudem a crescer ainda mais como profissional e pessoa.
 
 ---
 
@@ -80,15 +83,15 @@ Sou de **Camaçari-BA** e apaixonado por tecnologia desde a infância. Hoje, tra
 | **[Gestão Financeira](https://gestao-financeira-three.vercel.app/)** | Aplicação para controle e gestão de finanças pessoais. | React, TypeScript, Framer-motion, Tailwind CSS |
 | **Sistema para Escritórios de Advocacia** | Plataforma SaaS multi-tenant para gestão de processos jurídicos. | React, Flask, SQLAlchemy, Redis |
 
-🔗 [Acesse todos os projetos →](https://jefersonreis-github-io.vercel.app/#portfolio)
+🎨 [Veja todos os meus projetos →](https://jefersonreis-github-io.vercel.app/)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffinp&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffinp" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jeffinp&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffinp" />
 </p>
 
 ---
@@ -99,4 +102,4 @@ Se você tiver uma ideia incrível ou apenas quiser bater um papo sobre código 
 
 ---
 
-> *"A tecnologia é a ponte que conecta sonhos à realidade."*
+> *"Transformar ideias em código é como dar vida aos sonhos."*
