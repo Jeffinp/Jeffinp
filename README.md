@@ -85,7 +85,7 @@ Estou em busca de desafios e oportunidades que me permitam colaborar, aprender e
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[FlyServ Drones](https://flyservdrones.com.br/)** | Website institucional para empresa de serviços com drones. | React 19, TypeScript, Tailwind CSS, Framer Motion, PHP |
+| **[FlyServ Drones](https://flyservdrones.com.br/)** `(Privado)` | Website institucional para empresa de serviços com drones. | React 19, TypeScript, Tailwind CSS, Framer Motion, PHP |
 | **[Meu Shop - E-commerce](https://meu-ecommerce.vercel.app/)** | Plataforma de e-commerce pessoal com backend integrado. | Angular, TypeScript, Tailwind CSS, Python, PostgreSQL |
 | **[Gestão Financeira](https://gestao-financeira-three.vercel.app/)** | Aplicação para controle e gestão de finanças pessoais. | React, TypeScript, Framer-motion, Tailwind CSS |
 | **Sistema para Advogados** `(Privado)` | Plataforma SaaS multi-tenant para gestão de processos. | React, Flask, SQLAlchemy, Redis |
