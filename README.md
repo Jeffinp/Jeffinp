@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="Banner Code"/>
+  <img src="http://googleusercontent.com/image_generation_content/0" width="100%" alt="Banner Jeferson Reis - Full-Stack Developer & Digital Designer"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Jeferson Reis</h1>
@@ -102,7 +102,7 @@ Estou em busca de desafios e oportunidades que me permitam colaborar, aprender e
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[FlyServ Drones](https://flyservdrones.com.br/)** `(Privado)` | Website institucional para empresa de serviços com drones. | React 19, TypeScript, Tailwind CSS, Framer Motion, PHP |
+| **[FlyServ Drones](https://flyservdrones.com.br/)** `(Código Fechado)` | Website institucional para empresa de serviços com drones. | React 19, TypeScript, Tailwind CSS, Framer Motion, PHP |
 | **[Meu Shop - E-commerce](https://meu-ecommerce.vercel.app/)** | Plataforma de e-commerce pessoal com backend integrado. | Angular, TypeScript, Tailwind CSS, Python, PostgreSQL |
 | **[Gestão Financeira](https://gestao-financeira-three.vercel.app/)** | Aplicação para controle e gestão de finanças pessoais. | React, TypeScript, Framer-motion, Tailwind CSS |
 | **Sistema para Advogados** `(Privado)` | Plataforma SaaS multi-tenant para gestão de processos. | React, Flask, SQLAlchemy, Redis |
