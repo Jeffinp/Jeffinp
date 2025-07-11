@@ -34,10 +34,10 @@ Sou um **Desenvolvedor Full-Stack** e **Designer Digital** apaixonado por criar 
 
 ### 🔍 Atualmente:
 
-- 🔭 Trabalhando em **projetos freelance** de alta complexidade
-- 🌱 Aprofundando conhecimentos em **Cloud Architecture** e **DevOps**
-- 👯 Buscando colaborar em **projetos open source** impactantes
-- 💬 Compartilhando conhecimento sobre **desenvolvimento web moderno**
+- 🔭 Desenvolvendo soluções SaaS complexas e atuando em projetos freelance de alto impacto.
+- 🌱 Aprofundando em Arquitetura Cloud e DevOps, com foco em automação e escalabilidade de sistemas.
+- 👯 Buscando ativamente contribuir com projetos open source que resolvem problemas reais.
+- 💬 Compartilhando aprendizados sobre as melhores práticas do desenvolvimento web moderno.
 
 ---
 
