@@ -2,138 +2,213 @@
   <img src="https://raw.githubusercontent.com/Jeffinp/Jeffinp/main/Imagens/Design_jeff1.png" width="100%" alt="Banner Jeferson Reis - Full-Stack Developer & Digital Designer"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou Jeferson Reis</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B85C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Digital+Designer;Apaixonado+por+tecnologia" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jeferson-reis-877a942b7/"><img src="https://img.shields.io/badge/STATUS-Disponível%20para%20novos%20projetos-brightgreen?style=for-the-badge" alt="Status"/></a>
-</p>
-
-<p align="center">
-  <a href="mailto:jefersonreisalmeida8356@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jeferson-reis-877a942b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Jeffinp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/jeffinx___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### 🚀 Sobre Mim
-
-Desenvolvedor Full-Stack e Designer com uma paixão por transformar ideias em soluções digitais robustas e elegantes. Minha jornada começou com a curiosidade por tecnologia e design, e hoje aplico essa base para criar projetos que unem **código limpo, performance e interfaces intuitivas**.
-
-- 👨‍💻 Atuo como **freelancer**, construindo aplicações web completas, desde o back-end até o front-end.
-- 🎨 Tenho um olhar apurado para **UI/UX**, garantindo que a experiência do usuário seja sempre a melhor possível.
-- 🌱 Acredito na **melhoria contínua** e estou sempre explorando novas tecnologias para evoluir como profissional.
-
-Estou em busca de desafios e oportunidades que me permitam colaborar, aprender e gerar valor real através da tecnologia.
-
----
-
-## 🛠️ Tech Stack
-
-<details align="center">
-<summary><strong>🧠 Linguagens & Front-End</strong></summary>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS" title="SCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack" title="Webpack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" title="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material-UI" title="Material-UI" />
-</p>
-</details>
-
-<details align="center">
-<summary><strong>🔧 Back-End & Bancos de Dados</strong></summary>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+<div align="center">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET Core" title="ASP.NET Core" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" height="40" alt="Laravel" title="Laravel" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" title="MariaDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis" />
+  # 👋 Olá, eu sou **Jeferson Reis**
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />
-  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="40" alt="JWT" title="JWT" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
-</p>
-</details>
-
-<details align="center">
-<summary><strong>⚙️ Ferramentas, Design & DevOps</strong></summary>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel" />
-  <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" height="40" alt="Render" title="Render" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B85C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-Stack+Developer+%7C+Digital+Designer;Transformando+ideias+em+soluções+digitais+robustas" alt="Typing SVG" /></a>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" title="Notion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" title="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" title="Canva" />
-</p>
-</details>
+  [![Status](https://img.shields.io/badge/🚀_Status-Disponível_para_novos_projetos-00B85C?style=for-the-badge&labelColor=1a1b27)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonreisalmeida8356@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeffinp)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffinx___/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00B85C?style=for-the-badge&logo=vercel&logoColor=white)](https://jefersonreis-github-io.vercel.app/)
+  
+</div>
 
-## ✨ Projetos em Destaque
+## 🚀 Sobre Mim
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[FlyServ Drones](https://flyservdrones.com.br/)** `(Código Fechado)` | Website institucional para empresa de serviços com drones. | React 19, TypeScript, Tailwind CSS, Framer Motion, PHP |
-| **[Meu Shop - E-commerce](https://meu-ecommerce.vercel.app/)** | Plataforma de e-commerce pessoal com backend integrado. | Angular, TypeScript, Tailwind CSS, Python, PostgreSQL |
-| **[Gestão Financeira](https://gestao-financeira-three.vercel.app/)** | Aplicação para controle e gestão de finanças pessoais. | React, TypeScript, Framer-motion, Tailwind CSS |
-| **Sistema para Advogados** `(Privado)` | Plataforma SaaS multi-tenant para gestão de processos. | React, Flask, SQLAlchemy, Redis |
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
-<br>
-<p align="center">
-  <a href="https://jefersonreis-github-io.vercel.app/">
-    <img src="https://img.shields.io/badge/Ver%20Portfólio%20Completo-%2300B85C?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+Sou um **Desenvolvedor Full-Stack** e **Designer Digital** apaixonado por criar experiências digitais excepcionais. Com uma sólida base em desenvolvimento web e um olhar aguçado para design, eu transformo ideias complexas em soluções elegantes e funcionais.
+
+### 💡 O que me define:
+
+- 🎯 **Foco em resultados**: Desenvolvo aplicações que geram valor real para negócios
+- 🎨 **Design-first thinking**: UI/UX não é um detalhe, é o diferencial
+- 🛠️ **Stack moderna**: Sempre atualizado com as melhores tecnologias
+- 📈 **Growth mindset**: Aprendizado contínuo e evolução constante
+- 🤝 **Colaborativo**: Acredito que grandes projetos nascem de grandes equipes
+
+### 🔍 Atualmente:
+
+- 🔭 Trabalhando em **projetos freelance** de alta complexidade
+- 🌱 Aprofundando conhecimentos em **Cloud Architecture** e **DevOps**
+- 👯 Buscando colaborar em **projetos open source** impactantes
+- 💬 Compartilhando conhecimento sobre **desenvolvimento web moderno**
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub
+## 🛠️ Tech Stack & Ferramentas
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api?username=Jeffinp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" />
-  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=8" />
-</p>
-<p align="center">
-  <img
-    src="https://streak-stats.vercel.app/?user=Jeffinp&theme=dracula&hide_border=true&border_radius=8"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
 
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Banco de Dados & Cloud
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🎨 Design & Ferramentas
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Vamos nos Conectar!
+## 🚀 Projetos em Destaque
 
-Adoraria trocar ideias, colaborar em projetos ou discutir oportunidades. Sinta-se à vontade para entrar em contato!
+<div align="center">
+  
+### 🏆 Principais Projetos
 
-> *"Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso." - Albert Einstein*
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FlyServ Drones</h3>
+      <div align="center">
+        <a href="https://flyservdrones.com.br/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Visitar_Site-00B85C?style=for-the-badge" alt="FlyServ Drones"/>
+        </a>
+        <p><strong>Tech Stack:</strong> React 19 • TypeScript • Tailwind CSS • Framer Motion • PHP</p>
+        <p>Website institucional moderno para empresa líder em serviços com drones. Interface responsiva com animações fluidas e otimização SEO.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Meu Shop - E-commerce</h3>
+      <div align="center">
+        <a href="https://meu-ecommerce.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Demo_Live-00B85C?style=for-the-badge" alt="Meu Shop"/>
+        </a>
+        <p><strong>Tech Stack:</strong> Angular • TypeScript • Tailwind CSS • Python • PostgreSQL</p>
+        <p>Plataforma e-commerce completa com sistema de pagamentos, gestão de estoque e painel administrativo. Performance otimizada e UX intuitiva.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Gestão Financeira</h3>
+      <div align="center">
+        <a href="https://gestao-financeira-three.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Acessar_App-00B85C?style=for-the-badge" alt="Gestão Financeira"/>
+        </a>
+        <p><strong>Tech Stack:</strong> React • TypeScript • Framer Motion • Tailwind CSS</p>
+        <p>Aplicação para controle financeiro pessoal com dashboards interativos, gráficos dinâmicos e relatórios personalizados.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sistema para Advogados</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🔒_Projeto_Privado-FF6B6B?style=for-the-badge" alt="Sistema Privado"/>
+        <p><strong>Tech Stack:</strong> React • Flask • SQLAlchemy • Redis</p>
+        <p>Plataforma SaaS multi-tenant para gestão de processos jurídicos. Sistema completo com autenticação robusta e gestão de permissões.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
+### 🔗 Mais Projetos
+  
+[![Ver Portfolio Completo](https://img.shields.io/badge/🌟_Ver_Portfolio_Completo-1a1b27?style=for-the-badge)](https://jefersonreis-github-io.vercel.app/)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-private-weld.vercel.app/api?username=Jeffinp&show_icons=true&count_private=true&hide_border=true&title_color=00B85C&icon_color=00B85C&text_color=c9d1d9&bg_color=0d1117" alt="Jeferson Reis github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-private-weld.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&hide_border=true&title_color=00B85C&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffinp&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00B85C&fire=00B85C&currStreakLabel=00B85C" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeffinp&theme=dracula&row=1&column=6&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</div>
+
+### 📈 Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffinp&bg_color=0d1117&color=00B85C&line=00B85C&point=fff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Vamos Construir Algo Incrível Juntos!
+
+<div align="center">
+  
+### 💬 Entre em Contato
+
+Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades para agregar valor através da tecnologia.
+
+[![Email](https://img.shields.io/badge/📧_Email_Profissional-D14836?style=for-the-badge)](mailto:jefersonreisalmeida8356@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Conecte_no_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
+[![Instagram](https://img.shields.io/badge/📸_Siga_no_Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/jeffinx___/)
+
+### 📍 Localização
+**Salvador, Bahia - Brasil** 🇧🇷 | Disponível para projetos remotos globalmente 🌍
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Filosofia de Trabalho
+
+> *"A tecnologia é melhor quando reúne pessoas."* - Matt Mullenweg
+
+<img src="https://komarev.com/ghpvc/?username=Jeffinp&label=Profile%20views&color=00B85C&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
