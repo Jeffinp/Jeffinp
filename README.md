@@ -6,7 +6,7 @@
   
   # 👋 Olá, eu sou **Jeferson Reis**
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B85C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-Stack+Developer+%7C+Digital+Designer;Transformando+ideias+em+soluções+digitais+robustas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B85C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-Stack+Developer;Transformando+ideias+em+soluções+digitais+robustas" alt="Typing SVG" /></a>
   
   [![Status](https://img.shields.io/badge/🚀_Status-Disponível_para_novos_projetos-00B85C?style=for-the-badge&labelColor=1a1b27)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
   
