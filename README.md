@@ -4,14 +4,13 @@
 
 <div align="center">
   
-  # 👋 Olá, eu sou **Jeferson Reis**
+  # Hi there, I'm **Jeferson Reis** 👋
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B85C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-Stack+Developer;.Transformando+ideias+em+soluções+digitais+robustas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B85C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-Stack+Developer+%26+Digital+Designer;Transforming+ideas+into+robust+digital+solutions" alt="Typing SVG" />
 </a>
 
-  
-  [![Status](https://img.shields.io/badge/🚀_Status-Disponível_para_novos_projetos-00B85C?style=for-the-badge&labelColor=1a1b27)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
+  [![Status](https://img.shields.io/badge/🚀_Status-Available_for_new_projects-00B85C?style=for-the-badge&labelColor=1a1b27)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonreisalmeida8356@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
@@ -21,129 +20,159 @@
   
 </div>
 
-## 🚀 Sobre Mim
+## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
-Sou um **Desenvolvedor Full-Stack** e **Designer Digital** apaixonado por criar experiências digitais excepcionais. Com uma sólida base em desenvolvimento web e um olhar aguçado para design, eu transformo ideias complexas em soluções elegantes e funcionais.
+I'm a **Full-Stack Developer** and **Digital Designer** passionate about crafting exceptional digital experiences. With a solid foundation in web development and a keen eye for design, I transform complex ideas into elegant, functional solutions.
 
-### 💡 O que me define:
+```javascript
+const jeferson = {
+    location: "Salvador, Bahia - Brazil 🇧🇷",
+    status: "Available for freelance & remote work",
+    passions: ["Clean Code", "UI/UX Design", "Open Source", "Innovation"],
+    currentFocus: "Building scalable SaaS solutions",
+    funFact: "I believe great code is like poetry - elegant and meaningful"
+};
+```
 
-- 🎯 **Foco em resultados**: Desenvolvo aplicações que geram valor real para negócios
-- 🎨 **Design-first thinking**: UI/UX não é um detalhe, é o diferencial
-- 🛠️ **Stack moderna**: Sempre atualizado com as melhores tecnologias
-- 📈 **Growth mindset**: Aprendizado contínuo e evolução constante
-- 🤝 **Colaborativo**: Acredito que grandes projetos nascem de grandes equipes
+### 🎯 What drives me
 
-### 🔍 Atualmente:
-
-- 🔭 Desenvolvendo soluções SaaS complexas e atuando em projetos freelance de alto impacto.
-- 🌱 Aprofundando em Arquitetura Cloud e DevOps, com foco em automação e escalabilidade de sistemas.
-- 👯 Buscando ativamente contribuir com projetos open source que resolvem problemas reais.
-- 💬 Compartilhando aprendizados sobre as melhores práticas do desenvolvimento web moderno.
-
----
-
-## 🛠️ Tech Stack & Ferramentas
-
-<div align="center">
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Banco de Dados & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🎨 Design & Ferramentas
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-</div>
+- **Results-oriented** → Building applications that generate real business value
+- **Design-first mindset** → UI/UX isn't a detail, it's the differentiator
+- **Modern stack** → Always up-to-date with cutting-edge technologies
+- **Continuous learner** → Growth mindset and constant evolution
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Tech Stack
 
-<div align="center">
-  
-### 🏆 Principais Projetos
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Design</b></summary>
+<br>
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+</details>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">FlyServ Drones</h3>
+      <h3 align="center">🚁 FlyServ Drones</h3>
       <div align="center">
         <a href="https://flyservdrones.com.br/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Visitar_Site-00B85C?style=for-the-badge" alt="FlyServ Drones"/>
+          <img src="https://img.shields.io/badge/Live_Demo-00B85C?style=for-the-badge&logo=vercel&logoColor=white" alt="FlyServ Drones"/>
         </a>
-        <p><strong>Tech Stack:</strong> React 19 • TypeScript • Tailwind CSS • Framer Motion • PHP</p>
-        <p>Website institucional moderno para empresa líder em serviços com drones. Interface responsiva com animações fluidas e otimização SEO.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        </p>
+        <p>Modern institutional website for a leading drone services company with fluid animations and SEO optimization.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Meu Shop - E-commerce</h3>
+      <h3 align="center">🛒 Meu Shop E-commerce</h3>
       <div align="center">
         <a href="https://meu-ecommerce.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Demo_Live-00B85C?style=for-the-badge" alt="Meu Shop"/>
+          <img src="https://img.shields.io/badge/Live_Demo-00B85C?style=for-the-badge&logo=vercel&logoColor=white" alt="Meu Shop"/>
         </a>
-        <p><strong>Tech Stack:</strong> Angular • TypeScript • Tailwind CSS • Python • PostgreSQL</p>
-        <p>Plataforma e-commerce completa com sistema de pagamentos, gestão de estoque e painel administrativo. Performance otimizada e UX intuitiva.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        </p>
+        <p>Complete e-commerce platform with payment system, inventory management, and admin panel.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Gestão Financeira</h3>
+      <h3 align="center">💰 Financial Management</h3>
       <div align="center">
         <a href="https://gestao-financeira-three.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Acessar_App-00B85C?style=for-the-badge" alt="Gestão Financeira"/>
+          <img src="https://img.shields.io/badge/Live_Demo-00B85C?style=for-the-badge&logo=vercel&logoColor=white" alt="Financial Management"/>
         </a>
-        <p><strong>Tech Stack:</strong> React • TypeScript • Framer Motion • Tailwind CSS</p>
-        <p>Aplicação para controle financeiro pessoal com dashboards interativos, gráficos dinâmicos e relatórios personalizados.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+        </p>
+        <p>Personal finance control app with interactive dashboards and personalized reports.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Sistema para Advogados</h3>
+      <h3 align="center">⚖️ Legal Management System</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/🔒_Projeto_Privado-FF6B6B?style=for-the-badge" alt="Sistema Privado"/>
-        <p><strong>Tech Stack:</strong> React • FastApi • SQLAlchemy • Typescript</p>
-        <p>Plataforma SaaS multi-tenant para gestão de processos jurídicos. Sistema completo com autenticação robusta e gestão de permissões.</p>
+        <img src="https://img.shields.io/badge/Private_Project-FF6B6B?style=for-the-badge&logo=lock&logoColor=white" alt="Private System"/>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+        </p>
+        <p>Multi-tenant SaaS platform for legal process management with robust authentication.</p>
       </div>
     </td>
   </tr>
@@ -151,9 +180,10 @@ Sou um **Desenvolvedor Full-Stack** e **Designer Digital** apaixonado por criar 
 
 <div align="center">
   
-### 🔗 Mais Projetos
+### 🎯 More Projects
   
-[![Ver Portfolio Completo](https://img.shields.io/badge/🌟_Ver_Portfolio_Completo-1a1b27?style=for-the-badge)](https://jefersonreis-github-io.vercel.app/)
+[![View Full Portfolio](https://img.shields.io/badge/🌟_View_Full_Portfolio-1a1b27?style=for-the-badge)](https://jefersonreis-github-io.vercel.app/)
+[![GitHub Repositories](https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Jeffinp?tab=repositories)
 
 </div>
 
@@ -162,56 +192,55 @@ Sou um **Desenvolvedor Full-Stack** e **Designer Digital** apaixonado por criar 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-private-weld.vercel.app/api?username=Jeffinp&show_icons=true&count_private=true&hide_border=true&title_color=00B85C&icon_color=00B85C&text_color=c9d1d9&bg_color=0d1117" alt="Jeferson Reis github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats-private-weld.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&hide_border=true&title_color=00B85C&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api?username=Jeffinp&show_icons=true&count_private=true&hide_border=true&title_color=00B85C&icon_color=00B85C&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&hide_border=true&title_color=00B85C&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffinp&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00B85C&fire=00B85C&currStreakLabel=00B85C" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeffinp&theme=dracula&row=1&column=6&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</div>
-
-### 📈 Contribuições
-
+<details>
+<summary><b>📈 Contribution Graph</b></summary>
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffinp&bg_color=0d1117&color=00B85C&line=00B85C&point=fff&area=true&hide_border=true" />
 </div>
+</details>
 
 ---
 
-## 🤝 Vamos Construir Algo Incrível Juntos!
+## 🤝 Let's Connect!
 
 <div align="center">
   
-### 💬 Entre em Contato
+I'm always open to discussing new projects, creative ideas, or opportunities to add value through technology.
 
-Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades para agregar valor através da tecnologia.
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonreisalmeida8356@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
+[![Instagram](https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffinx___/)
 
-[![Email](https://img.shields.io/badge/📧_Email_Profissional-D14836?style=for-the-badge)](mailto:jefersonreisalmeida8356@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Conecte_no_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
-[![Instagram](https://img.shields.io/badge/📸_Siga_no_Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/jeffinx___/)
-
-### 📍 Localização
-**Salvador, Bahia - Brasil** 🇧🇷 | Disponível para projetos remotos globalmente 🌍
+### 📍 Location
+**Salvador, Bahia - Brazil** 🇧🇷 | Available for remote work globally 🌍
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 Filosofia de Trabalho
 
-> *"A tecnologia é melhor quando reúne pessoas."* - Matt Mullenweg
+### 💭 Philosophy
 
-<img src="https://komarev.com/ghpvc/?username=Jeffinp&label=Profile%20views&color=00B85C&style=for-the-badge" alt="Profile views" />
+> *"Technology is best when it brings people together."* - Matt Mullenweg
 
-</div>
+<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://komarev.com/ghpvc/?username=Jeffinp&label=Profile%20views&color=00B85C&style=flat-square" alt="Profile views" />
+
+<br>
+
+**Thank you for visiting my profile!** ⭐
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 </div>
