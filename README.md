@@ -142,7 +142,7 @@ Sou um **Desenvolvedor Full-Stack** e **Designer Digital** apaixonado por criar 
       <h3 align="center">Sistema para Advogados</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/🔒_Projeto_Privado-FF6B6B?style=for-the-badge" alt="Sistema Privado"/>
-        <p><strong>Tech Stack:</strong> React • Flask • SQLAlchemy • Redis</p>
+        <p><strong>Tech Stack:</strong> React • FastApi • SQLAlchemy • Typescript</p>
         <p>Plataforma SaaS multi-tenant para gestão de processos jurídicos. Sistema completo com autenticação robusta e gestão de permissões.</p>
       </div>
     </td>
