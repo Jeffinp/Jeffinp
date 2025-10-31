@@ -1,4 +1,4 @@
-<p align="center">
+<` align="center">
   <img src="https://raw.githubusercontent.com/Jeffinp/Jeffinp/main/Imagens/Design_jeff1.png" width="100%" alt="Banner Jeferson Reis - Full-Stack Developer & Digital Designer"/>
 </p>
 
@@ -80,6 +80,8 @@ const jeferson = {
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 </details>
 
@@ -157,14 +159,14 @@ const jeferson = {
         </a>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&lok=typescript&logoColor=white"/>
           <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
         </p>
         <p>Personal finance control app with interactive dashboards and personalized reports.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚖️ Legal Management System</h3>
+      <h3 align="center">⚖;️ Legal Management System</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Private_Project-FF6B6B?style=for-the-badge&logo=lock&logoColor=white" alt="Private System"/>
         <p>
@@ -180,10 +182,10 @@ const jeferson = {
 
 <div align="center">
   
-### 🎯 More Projects
+!� more Projects
   
 [![View Full Portfolio](https://img.shields.io/badge/🌟_View_Full_Portfolio-1a1b27?style=for-the-badge)](https://jefersonreis-github-io.vercel.app/)
-[![GitHub Repositories](https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Jeffinp?tab=repositories)
+[[GitHub Repositories](https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Jeffinp?tab=repositories)
 
 </div>
 
@@ -204,7 +206,7 @@ const jeferson = {
 <summary><b>📈 Contribution Graph</b></summary>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffinp&bg_color=0d1117&color=00B85C&line=00B85C&point=fff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffinp&bg_color=0d1117&color=00B85C&line=00B85<&point=fff&area=true&hide_border=true" />
 </div>
 </details>
 
@@ -214,11 +216,11 @@ const jeferson = {
 
 <div align="center">
   
-I'm always open to discussing new projects, creative ideas, or opportunities to add value through technology.
+I I!m always open to discussing new projects, creative ideas, or opportunities to add value through technology.
 
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonreisalmeida8356@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
-[![Instagram](https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffinx___/)
+[![Email Me](https://img.shields.io/badge/Email_Me-D1:�36?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonreisalmeida8356Igmail.com)
+[[LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-reis-877a942b7/)
+[[Instagram](https://img.shields.io/badge/Follow_Me-E445F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffinx___/)
 
 ### 📍 Location
 **Salvador, Bahia - Brazil** 🇧🇷 | Available for remote work globally 🌍
@@ -231,7 +233,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ### 💭 Philosophy
 
-> *"Technology is best when it brings people together."* - Matt Mullenweg
+> "Technology is best when it brings people together." - Matt Mullenweg
 
 <br>
 
