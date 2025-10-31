@@ -30,7 +30,7 @@ const jeferson = {
     role: "Full-Stack Developer & Digital Designer",
     passions: ["Clean Code", "UI/UX Design", "Open Source", "Innovation"],
     currentFocus: "Building scalable SaaS solutions",
-    languages: ["JavaScript", "TypeScript", "Python", "Go", "Rust", "Dart"],
+    languages: ["JavaScript", "TypeScript", "Python", "Go", "Rust", "Dart", "Kotlin"],
     frameworks: ["React", "NestJS", "Flutter", "Next.js"],
     philosophy: "Great code is like poetry - elegant and meaningful"
 };
@@ -79,6 +79,7 @@ const jeferson = {
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Database & Cloud
