@@ -104,34 +104,34 @@ const jeferson = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚁 FlyServ Drones</h3>
+      <h3 align="center">🌐 Professional Portfolio</h3>
       <div align="center">
-        <a href="https://flyservdrones.com.br/" target="_blank">
+        <a href="https://jefersonreis-github-io.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00B85C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
+        <a href="https://github.com/Jeffinp/jefersonreis.portifolio" target="_blank">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
         <br><br>
-        <p><strong>Modern institutional website for drone services</strong></p>
+        <p><strong>Modern portfolio showcasing full-stack expertise</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🛒 Meu Shop E-commerce</h3>
+      <h3 align="center">📁 File Organizer</h3>
       <div align="center">
-        <a href="https://meu-ecommerce.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00B85C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        <a href="https://github.com/Jeffinp/file_organizer" target="_blank">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
         <br><br>
-        <p><strong>Complete e-commerce platform</strong></p>
+        <p><strong>Automatic file organizer with security features</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white"/>
         </p>
       </div>
     </td>
@@ -143,25 +143,31 @@ const jeferson = {
         <a href="https://gestao-financeira-three.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00B85C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
+        <a href="https://github.com/Jeffinp/gestao_financeira" target="_blank">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
         <br><br>
-        <p><strong>Personal finance control app</strong></p>
+        <p><strong>Interactive dashboards and financial reports</strong></p>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚖️ Legal Management System</h3>
+      <h3 align="center">🎨 Desenhos Ricardo Dias</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Private_Project-FF6B6B?style=for-the-badge&logo=lock&logoColor=white" alt="Private"/>
+        <a href="https://desenhos-ricardo-dias.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00B85C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/Jeffinp/Desenhos-Ricardo-Dias" target="_blank">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
         <br><br>
-        <p><strong>Multi-tenant SaaS platform</strong></p>
+        <p><strong>Art portfolio with gallery, blog, and SEO optimization</strong></p>
         <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
         </p>
       </div>
     </td>
