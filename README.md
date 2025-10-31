@@ -30,7 +30,8 @@ const jeferson = {
     role: "Full-Stack Developer & Digital Designer",
     passions: ["Clean Code", "UI/UX Design", "Open Source", "Innovation"],
     currentFocus: "Building scalable SaaS solutions",
-    languages: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
+    languages: ["JavaScript", "TypeScript", "Python", "Go", "Rust", "Dart"],
+    frameworks: ["React", "NestJS", "Flutter", "Next.js"],
     philosophy: "Great code is like poetry - elegant and meaningful"
 };
 ```
@@ -62,6 +63,7 @@ const jeferson = {
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -76,6 +78,7 @@ const jeferson = {
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Database & Cloud
