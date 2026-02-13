@@ -30,7 +30,7 @@ Focused on clean architecture, performance optimization, and delivering scalable
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jeffinp&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-gold-six.vercel.app/?username=Jeffinp&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
