@@ -159,8 +159,8 @@ Focused on clean architecture, performance optimization, and delivering scalable
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeffinp&show_icons=true&count_private=true&hide_border=true&title_color=00B85C&icon_color=00B85C&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&hide_border=true&title_color=00B85C&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api?username=Jeffinp&show_icons=true&count_private=true&hide_border=true&title_color=00B85C&icon_color=00B85C&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-private-weld.vercel.app/api/top-langs/?username=Jeffinp&layout=compact&hide_border=true&title_color=00B85C&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
