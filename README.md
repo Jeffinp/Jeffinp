@@ -5,7 +5,7 @@
 # Jeferson Reis
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B85C&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Full-Stack+Developer+%7C+Systems+Engineer;Next.js+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B85C&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Full-Stack+Developer+%7C+Systems+Engineer;Next.js+%E2%80%A2+C%23+%E2%80%A2+Rust+%E2%80%A2+Go" alt="Typing SVG" />
 </a>
 
 <br>
@@ -20,7 +20,7 @@
 
 ## About Me
 
-Full-Stack Developer based in **Salvador, Bahia - Brazil**. I build production systems with **Next.js** and **Python/FastAPI**, and engineer low-level systems with **Rust** — from operating systems to compilers and databases.
+Full-Stack Developer based in **Salvador, Bahia - Brazil**. I build production systems with **Next.js** and **C#/.NET**, and engineer low-level systems with **Rust** — from operating systems to compilers and databases.
 
 Focused on clean architecture, performance optimization, and delivering scalable solutions that solve real problems. Available for remote work globally.
 
@@ -45,8 +45,9 @@ Focused on clean architecture, performance optimization, and delivering scalable
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -56,6 +57,7 @@ Focused on clean architecture, performance optimization, and delivering scalable
 
 <div align="center">
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
