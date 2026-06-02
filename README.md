@@ -20,9 +20,9 @@
 
 ## About Me
 
-Full-Stack Developer based in **Salvador, Bahia - Brazil**. I build production systems with **Next.js** and **Python/FastAPI**, and engineer high-performance tools with **Rust** and **Go**.
+Full-Stack Developer based in **Salvador, Bahia - Brazil**. I build production systems with **Next.js** and **Python/FastAPI**, and engineer low-level systems with **Rust** — from operating systems to compilers and databases.
 
-Focused on clean architecture, performance optimization, and delivering scalable solutions that solve real business problems. Available for remote work globally.
+Focused on clean architecture, performance optimization, and delivering scalable solutions that solve real problems. Available for remote work globally.
 
 ---
 
@@ -76,6 +76,67 @@ Focused on clean architecture, performance optimization, and delivering scalable
 
 ## Featured Projects
 
+### Systems Engineering
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">OSJeff — x86_64 OS in Rust</h3>
+      <div align="center">
+        <a href="https://github.com/Jeffinp/OSjeff" target="_blank">
+          <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <br><br>
+        <p><strong>Full operating system built from scratch — bare metal, no Linux underneath</strong></p>
+        <p>Preemptive scheduler, heap allocator, hardware interrupts, damage-tracking compositor, and 3 apps — all in Rust + minimal Assembly. Boots on real hardware and QEMU.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Rust-nightly-000000?style=flat-square&logo=rust&logoColor=white"/>
+          <img src="https://img.shields.io/badge/arch-x86__64-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/no__std-bare%20metal-orange?style=flat-square"/>
+          <img src="https://img.shields.io/badge/tests-99%20passing-success?style=flat-square"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Vex Lang — Systems Programming Language</h3>
+      <div align="center">
+        <a href="https://github.com/Jeffinp/vex" target="_blank">
+          <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <br><br>
+        <p><strong>Fast as C++, safe as Rust, readable as Python</strong></p>
+        <p>Compiles to native binary via LLVM 17 backend. Hybrid ownership model (generational references + linear types) — no borrow checker burden. Targets Linux and Windows.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Rust-1.85+-orange?style=flat-square&logo=rust&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LLVM-17-purple?style=flat-square"/>
+          <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3 align="center">StormDB — Redis-Compatible In-Memory Database</h3>
+      <div align="center">
+        <a href="https://github.com/Jeffinp/stormdb" target="_blank">
+          <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+        <br><br>
+        <p><strong>High-performance in-memory database with full RESP2 protocol compatibility</strong></p>
+        <p>Lock-free reads via DashMap sharding, async I/O on Tokio, AOF persistence, Pub/Sub, master-slave replication, and a real-time TUI monitoring dashboard.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Rust-1.93+-orange?style=flat-square&logo=rust&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redis-compatible-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tokio-async-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### Web Development
+
 <table>
   <tr>
     <td width="50%">
@@ -92,7 +153,7 @@ Focused on clean architecture, performance optimization, and delivering scalable
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
         </p>
       </div>
     </td>
@@ -110,6 +171,7 @@ Focused on clean architecture, performance optimization, and delivering scalable
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square"/>
         </p>
       </div>
     </td>
@@ -122,9 +184,10 @@ Focused on clean architecture, performance optimization, and delivering scalable
           <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
         <br><br>
-        <p><strong>CLI tool for automatic file organization with security features</strong></p>
+        <p><strong>CLI tool for automatic file organization with security features and duplicate detection</strong></p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
         </p>
       </div>
     </td>
@@ -200,4 +263,3 @@ Focused on clean architecture, performance optimization, and delivering scalable
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B85C&height=120&section=footer"/>
 
 </div>
-
